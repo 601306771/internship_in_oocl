@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;htmlUnit&apos;&#x0D;&#x0A;- Original project: &apos;htmlUnit&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     htmlUnit.CopyOfHtmlUnit.java&#x0D;&#x0A;     htmlUnit.HtmlUnit.java&#x0D;&#x0A;     htmlUnit.SourceResearch.java" description="Delete elements" element1="/src&lt;htmlUnit{HtmlUnit.java" element2="/src&lt;htmlUnit{CopyOfHtmlUnit.java" element3="/src&lt;htmlUnit{SourceResearch.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1459491214609" subPackages="false" version="1.0"/>
+</session>

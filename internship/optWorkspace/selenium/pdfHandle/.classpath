@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/bcmail-jdk14-132.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/bcprov-jdk14-132.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/checkstyle-all-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/FontBox-0.1.0-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/lucene-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/lucene-demos-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LINI8/Desktop/external_pdf/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

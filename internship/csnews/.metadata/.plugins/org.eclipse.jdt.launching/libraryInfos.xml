@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files (x86)\Java\jdk1.8.0_45" version="1.8.0_45">
+<bootpath>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\resources.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\jce.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files (x86)\Java\jre1.8.0_65" version="1.8.0_65">
+<bootpath>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\resources.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\rt.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\jsse.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\jce.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\charsets.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\jfr.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_65\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1" version="1.7.0_10">
+<bootpath>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\resources.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\rt.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jce.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre" version="1.7.0_10">
+<bootpath>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\resources.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\rt.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jce.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files (x86)\Java\jdk1.7.0_10_win64_1\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/selenium-java-2.46.0.jar" sourcepath="selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Nigel/selenim2/testselenium/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

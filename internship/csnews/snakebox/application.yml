@@ -1,0 +1,33 @@
+### SPRING config
+server:
+  port: 8080
+  display-name: example-springboot
+spring:
+  application:
+    name: snakebox
+  redis:
+    host: localhost
+    port: 6379 # connection port
+    pool:
+#      max-idle: 5
+      max-total: 20
+      min-idle: 5
+      database: 1
+  mail:
+    host: smtp.gmail.com
+    username: cargosmart.roger@gmail.com
+    password: pw851510
+    port: 587
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+  thymeleaf:
+    mode: LEGACYHTML5
+
+email:
+  from: no-reply@cargosmart.com
+  alertTo:
+    - roger.chan@cargosmart.com
+  alertSubject: "[Exception] CSNEWS snakebox has an exception."

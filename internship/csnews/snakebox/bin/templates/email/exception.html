@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org" dir="ltr" class="uk-height-1-1">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Exception</title>
+</head>
+
+<body>
+<div>
+    <div style="padding: 15px 15px;">
+        <span>Hi Support,</span>
+        <br>
+        <br>
+        <span>
+            An exception throw from CSNEWS(Snakebox)<br>
+        </span>
+        <span>
+            Please help to investigate the root cause.
+        </span>
+        <br>
+        <br>
+        <span style="font-style: italic; font-weight: bold;">Case ID:</span>
+        <br>
+        <span th:text="${caseId}"></span>
+        <br>
+        <br>
+        <span style="font-style: italic; font-weight: bold;">Cause:</span>
+        <br>
+        <span th:text="${message}"></span>
+        <br>
+        <br>
+        <span style="font-style: italic; font-weight: bold;">Stack:</span>
+        <br>
+        <pre th:text="${stackTrace}" style="background: #efebe9; padding: 5px 5px; font-family: monospace; color: #424242;"></pre>
+
+    </div>
+</div>
+
+</body>
+
+</html>

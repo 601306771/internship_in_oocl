@@ -1,0 +1,30 @@
+1459386226536	Rename compilation unit 'SetRepositoryConfig.java'
+1459389704528	Rename resource 'PdfConfig.properties'
+1459391075048	Move file
+1459391080649	Delete element
+1459391272932	Delete element
+1459391278822	Delete element
+1459391433228	Rename type 'GetRepositoryConfig'
+1459391505699	Rename type 'SetRepositoryConfig'
+1459392316297	Rename type 'Entry'
+1459395642343	Rename type 'CosineCompareController'
+1459395832310	Rename type 'CosineCompareService'
+1459395881504	Rename local variable 'pixels1'
+1459395892005	Rename local variable 'width1'
+1459395898525	Rename local variable 'height1'
+1459396087235	Rename local variable 'pixels1'
+1459396091790	Rename local variable 'width1'
+1459396101830	Rename local variable 'height1'
+1459396124385	Rename local variable 'pixels1'
+1459396129385	Rename local variable 'width1'
+1459396137433	Rename local variable 'height1'
+1459396243801	Delete element
+1459396251451	Rename type 'CosineCompareServiceOld'
+1459396257033	Delete element
+1459404243356	Delete element
+1459404363854	Rename type 'Entry'
+1459404432179	Move compilation unit
+1459404452202	Rename type 'OcrUtil'
+1459404879282	Rename package 'lxy.ocrHandle'
+1459405197828	Move file
+1459417587298	Copy compilation unit
